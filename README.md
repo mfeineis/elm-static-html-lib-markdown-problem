@@ -1,5 +1,5 @@
 # elm-static-html-lib-markdown-problem
-Kind of minimal reproducible markdown problem using `elm-static-html-lib`
+Kind of minimal reproducible [markdown problem](https://github.com/eeue56/elm-static-html-lib/issues/7) using `elm-static-html-lib`
 
 * clone this repo
 * running `elm reactor` gives the expected markup with `Home` and `Styled`
